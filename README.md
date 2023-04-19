@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontier<br>🌱 I’m currently learning more about BlockChain
+👋  Hi there! I'm Rohit Goswami , a Computer Science and Engineering learner with a passion for coding and technology<br>🌱 I’m currently learning more about  Front-End Developer 
 
 
 ## 🌐 Socials:
